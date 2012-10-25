@@ -1,12 +1,13 @@
 
 public class Aliment {
-	protected int type;
 	protected int energie;
 	protected int abs;
 	protected int ord;
 	
-	public Aliment() {
-		
+	public Aliment(int energie, int abs, int ord) {
+		this.energie = energie;
+		this.abs = abs;
+		this.ord = ord;
 	}
 	
 	public int getEnergie() {
