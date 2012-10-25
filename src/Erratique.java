@@ -1,9 +1,6 @@
 
 public class Erratique extends Neuneu {
 	
-	public Erratique()  {
-		
-	}
 	
 	public void seDeplacer() {
 		
