@@ -1,5 +1,5 @@
 
-public class Aliment {
+public class Aliment extends Object {
 	protected int energie;
 	protected int abs;
 	protected int ord;
